@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Destop\LaptrinhCpp\TicTacToe\TicTacToe\Main.cpp(145,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Destop\LaptrinhCpp\TicTacToe\TicTacToe\Main.cpp(145,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Destop\LaptrinhCpp\TicTacToe\TicTacToe\Main.cpp(163,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Destop\LaptrinhCpp\TicTacToe\TicTacToe\Main.cpp(166,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TicTacToe.vcxproj -> D:\Destop\LaptrinhCpp\TicTacToe\x64\Debug\TicTacToe.exe
