@@ -171,8 +171,6 @@ int main()
         Winner(tempR, tempC, turn, 3);
         if (isWin == true)
         {
-            //cout << turn << " Winnn!" << endl;
-            //Reset();
             mainActivity.clear(Color::White);
             uText.setString("Winner: ");
             uText.setPosition(100, 150);
